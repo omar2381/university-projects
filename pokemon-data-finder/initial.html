@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+
+<script src="https://d3js.org/d3.v4.js"></script>
+<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+
+<div id="pokedata"></div>
+<div class="legend"><svg id="pokelegend" height="200"></svg></div>
+
+<style>
+  .node:hover {
+    stroke-width: 5px !important;
+    opacity: 1 !important;
+  }
+  html {
+    overflow: hidden;
+  }
+  .legend {
+    height: 200px;
+    width: 60px;
+    position: fixed;
+    left: 40px;
+    bottom: 530px;
+    padding: 10px;
+  }
+</style>
+
+<script>
+  var width = 1460;
+  var height = 640;
+
+  var svg = d3
+    .select("#pokedata")
+    .append("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+  var SVG = d3.select("#pokelegend");
+  var keys = ["Gen 1", "Gen 2", "Gen 3", "Gen 4", "Gen 5", "Gen 6", "Gen 7"];
+  var colour = d3
+    .scaleOrdinal()
+    .domain(keys)
+    .range(d3.schemeSet1);
+  var size = 20;
+  SVG.selectAll("mydots")
+    .data(keys)
+    .enter()
+    .append("circle")
+    .attr("cx", 10)
+    .attr("cy", function(d, i) {
+      return 10 + i * 25;
+    })
+    .attr("r", 8)
+    .style("fill", function(d) {
+      return colour(d);
+    });
+  SVG.selectAll("mylabels")
+    .data(keys)
+    .enter()
+    .append("text")
+    .attr("x", size)
+    .attr("y", function(d, i) {
+      return i * (size + 5) + size / 2 + 5;
+    })
+    .style("fill", function(d) {
+      return colour(d);
+    })
+    .text(function(d) {
+      return d;
+    });
+
+  var color = d3
+      .scaleOrdinal()
+      .range(d3.schemeSet1);
+
+    var size = d3
+        .scaleLinear()
+        .domain([0, 300])
+        .range([2, 20]);
+
+  var Tooltip = d3
+        .select("#pokedata")
+        .append("div")
+        .style("opacity", 1)
+        .attr("class", "tooltip")
+        .style("background-color", "white")
+        .style("border", "solid")
+        .style("border-width", "2px")
+        .style("border-radius", "10px")
+        .style("padding", "10px");
+
+      var Lengendary = function(lege) {
+        if (lege == 1) {
+          return "and is a Legendary Pokemon";
+        } else {
+          return "and is NOT a Legendary Pokemon";
+        }
+      };
+
+  d3.csv(
+    "https://raw.githubusercontent.com/omar2381/pokemon.csv/master/pokemon.csv",
+    function(data) {
+
+             var mousemove = function(d) {
+        Tooltip.html(
+          "Pokedex Number " +
+            d.pokedex_number +
+            " is " +
+            d.name +
+            ", " +
+            d.name +
+            " has " +
+            d.hp +
+            " Hit Points" +
+            " with a " +
+            d.capture_rate +
+            "% Capture Rate" +
+            " and is a/an " +
+            d.type1 +
+            " " +
+            d.type2 +
+            " Type " +
+            Lengendary(d.is_legendary)
+        )
+      };
+
+      var node = svg
+        .append("g")
+        .selectAll("circle")
+        .data(data)
+        .enter()
+        .append("circle")
+        .attr("class", "node")
+        .attr("r", function(d) {
+          return size(d.hp);
+        })
+        .attr("cx", width / 2)
+        .attr("cy", height / 2)
+        .style("fill", function(d) {
+          return color(d.generation);
+        })
+        .style("fill-opacity", 0.8)
+        .attr("stroke", "white")
+        .style("stroke-width", 0)
+        .on("mousemove", mousemove)
+        .call(
+          d3
+            .drag()
+            .on("start", dragstarted)
+            .on("drag", dragged)
+            .on("end", dragended)
+        );
+
+      var simulation = d3
+        .forceSimulation()
+        .force(
+          "center",
+          d3
+            .forceCenter()
+            .x(width / 3)
+            .y(height / 2)
+        )
+        .force("charge", d3.forceManyBody().strength(0.1))
+        .force(
+          "collide",
+          d3
+            .forceCollide()
+            .strength(1)
+            .radius(function(d) {
+              return size(d.hp) + 3;
+            })
+            .iterations(1)
+        );
+      simulation.nodes(data).on("tick", function(d) {
+        node
+          .attr("cx", function(d) {
+            return d.x;
+          })
+          .attr("cy", function(d) {
+            return d.y;
+          });
+      });
+
+      function dragstarted(d) {
+        if (!d3.event.active) simulation.alphaTarget(0.1).restart();
+        d.fx = d.x;
+        d.fy = d.y;
+      }
+      function dragged(d) {
+        d.fx = d3.event.x;
+        d.fy = d3.event.y;
+      }
+      function dragended(d) {
+        if (!d3.event.active) simulation.alphaTarget(0.1);
+        d.fx = null;
+        d.fy = null;
+      }
+    }
+  );
+</script>

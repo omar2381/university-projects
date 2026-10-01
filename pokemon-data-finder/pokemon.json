@@ -1,0 +1,2405 @@
+[
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Bulbasaur,1,45,1,grass,poison,49,49,0.7,45,65,65,45,6.9,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Ivysaur,1,45,2,grass,poison,62,63,1,60,80,80,60,13,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Venusaur,1,45,3,grass,poison,100,123,2,80,122,120,80,100,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Charmander,1,45,4,fire,,52,43,0.6,39,60,50,65,8.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Charmeleon,1,45,5,fire,,64,58,1.1,58,80,65,80,19,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Charizard,1,45,6,fire,flying,104,78,1.7,78,159,115,100,90.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Squirtle,1,45,7,water,,48,65,0.5,44,50,64,43,9,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Wartortle,1,45,8,water,,63,80,1,59,65,80,58,22.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Blastoise,1,45,9,water,,103,120,1.6,79,135,115,78,85.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Caterpie,1,255,10,bug,,30,35,0.3,45,20,20,45,2.9,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Metapod,1,120,11,bug,,20,55,0.7,50,25,25,30,9.9,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Butterfree,1,45,12,bug,flying,45,50,1.1,60,90,80,70,32,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Weedle,1,255,13,bug,poison,35,30,0.3,40,20,20,50,3.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Kakuna,1,120,14,bug,poison,25,50,0.6,45,25,25,35,10,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Beedrill,1,45,15,bug,poison,150,40,1,65,15,80,145,29.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Pidgey,1,255,16,normal,flying,45,40,0.3,40,35,35,56,1.8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Pidgeotto,1,120,17,normal,flying,60,55,1.1,63,50,50,71,30,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Pidgeot,1,45,18,normal,flying,80,80,1.5,83,135,80,121,39.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Rattata,1,255,19,normal,dark,56,35,,30,25,35,72,,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Raticate,1,127,20,normal,dark,71,70,,75,40,80,77,,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Spearow,1,255,21,normal,flying,60,30,0.3,40,31,31,70,2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Fearow,1,90,22,normal,flying,90,65,1.2,65,61,61,100,38,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Ekans,1,255,23,poison,,60,44,2,35,40,54,55,6.9,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Arbok,1,90,24,poison,,95,69,3.5,60,65,79,80,65,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Pikachu,1,190,25,electric,,55,40,0.4,35,50,50,90,6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Raichu,1,75,26,electric,electric,85,50,,60,95,85,110,,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Sandshrew,1,255,27,ground,ice,75,90,,50,10,35,40,,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Sandslash,1,90,28,ground,ice,100,120,,75,25,65,65,,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Nidoran♀,1,235,29,poison,,47,52,0.4,55,40,40,41,7,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Nidorina,1,120,30,poison,,62,67,0.8,70,55,55,56,20,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Nidoqueen,1,45,31,poison,ground,92,87,1.3,90,75,85,76,60,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Nidoran♂,1,235,32,poison,,57,40,0.5,46,40,40,50,9,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Nidorino,1,120,33,poison,,72,57,0.9,61,55,55,65,19.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Nidoking,1,45,34,poison,ground,102,77,1.4,81,85,75,85,62,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Clefairy,1,150,35,fairy,,45,48,0.6,70,60,65,35,7.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Clefable,1,25,36,fairy,,70,73,1.3,95,95,90,60,40,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Vulpix,1,190,37,fire,ice,41,40,,38,50,65,65,,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Ninetales,1,75,38,fire,ice,67,75,,73,81,100,109,,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Jigglypuff,1,170,39,normal,fairy,45,20,0.5,115,45,25,20,5.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Wigglytuff,1,50,40,normal,fairy,70,45,1,140,85,50,45,12,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Zubat,1,255,41,poison,flying,45,35,0.8,40,30,40,55,7.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Golbat,1,90,42,poison,flying,80,70,1.6,75,65,75,90,55,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Oddish,1,255,43,grass,poison,50,55,0.5,45,75,65,30,5.4,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Gloom,1,120,44,grass,poison,65,70,0.8,60,85,75,40,8.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Vileplume,1,45,45,grass,poison,80,85,1.2,75,110,90,50,18.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Paras,1,190,46,bug,grass,70,55,0.3,35,45,55,25,5.4,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Parasect,1,75,47,bug,grass,95,80,1,60,60,80,30,29.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Venonat,1,190,48,bug,poison,55,50,1,60,40,55,45,30,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Venomoth,1,75,49,bug,poison,65,60,1.5,70,90,75,90,12.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Diglett,1,255,50,ground,ground,55,30,,10,35,45,90,,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Dugtrio,1,50,51,ground,ground,100,60,,35,50,70,110,,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Meowth,1,255,52,normal,dark,35,35,,40,50,40,90,,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Persian,1,90,53,normal,dark,60,60,,65,75,65,115,,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Psyduck,1,190,54,water,,52,48,0.8,50,65,50,55,19.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Golduck,1,75,55,water,,82,78,1.7,80,95,80,85,76.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Mankey,1,190,56,fighting,,80,35,0.5,40,35,45,70,28,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Primeape,1,75,57,fighting,,105,60,1,65,60,70,95,32,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Growlithe,1,190,58,fire,,70,45,0.7,55,70,50,60,19,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Arcanine,1,75,59,fire,,110,80,1.9,90,100,80,95,155,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Poliwag,1,255,60,water,,50,40,0.6,40,40,40,90,12.4,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Poliwhirl,1,120,61,water,,65,65,1,65,50,50,90,20,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Poliwrath,1,45,62,water,fighting,95,95,1.3,90,70,90,70,54,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Abra,1,200,63,psychic,,20,15,0.9,25,105,55,90,19.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Kadabra,1,100,64,psychic,,35,30,1.3,40,120,70,105,56.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Alakazam,1,50,65,psychic,,50,65,1.5,55,175,105,150,48,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Machop,1,180,66,fighting,,80,50,0.8,70,35,35,35,19.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Machoke,1,90,67,fighting,,100,70,1.5,80,50,60,45,70.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Machamp,1,45,68,fighting,,130,80,1.6,90,65,85,55,130,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Bellsprout,1,255,69,grass,poison,75,35,0.7,50,70,30,40,4,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Weepinbell,1,120,70,grass,poison,90,50,1,65,85,45,55,6.4,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Victreebel,1,45,71,grass,poison,105,65,1.7,80,100,70,70,15.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Tentacool,1,190,72,water,poison,40,35,0.9,40,50,100,70,45.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Tentacruel,1,60,73,water,poison,70,65,1.6,80,80,120,100,55,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Geodude,1,255,74,rock,ground,80,100,,40,30,30,20,,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Graveler,1,120,75,rock,ground,95,115,,55,45,45,35,,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Golem,1,45,76,rock,ground,120,130,,80,55,65,45,,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Ponyta,1,190,77,fire,,85,55,1,50,65,65,90,30,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Rapidash,1,60,78,fire,,100,70,1.7,65,80,80,105,95,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Slowpoke,1,190,79,water,psychic,65,65,1.2,90,40,40,15,36,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Slowbro,1,75,80,water,psychic,75,180,1.6,95,130,80,30,78.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Magnemite,1,190,81,electric,steel,35,70,0.3,25,95,55,45,6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Magneton,1,60,82,electric,steel,60,95,1,50,120,70,70,60,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Farfetch'd,1,45,83,normal,flying,90,55,0.8,52,58,62,60,15,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Doduo,1,190,84,normal,flying,85,45,1.4,35,35,35,75,39.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Dodrio,1,45,85,normal,flying,110,70,1.8,60,60,60,110,85.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Seel,1,190,86,water,,45,55,1.1,65,45,70,45,90,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Dewgong,1,75,87,water,ice,70,80,1.7,90,70,95,70,120,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Grimer,1,190,88,poison,poison,80,50,,80,40,50,25,,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Muk,1,75,89,poison,poison,105,75,,105,65,100,50,,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Shellder,1,190,90,water,,65,100,0.3,30,45,25,40,4,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Cloyster,1,60,91,water,ice,95,180,1.5,50,85,45,70,132.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Gastly,1,190,92,ghost,poison,35,30,1.3,30,100,35,80,0.1,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Haunter,1,90,93,ghost,poison,50,45,1.6,45,115,55,95,0.1,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Gengar,1,45,94,ghost,poison,65,80,1.5,60,170,95,130,40.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Onix,1,45,95,rock,ground,45,160,8.8,35,30,45,70,210,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Drowzee,1,190,96,psychic,,48,45,1,60,43,90,42,32.4,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Hypno,1,75,97,psychic,,73,70,1.6,85,73,115,67,75.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Krabby,1,225,98,water,,105,90,0.4,30,25,25,50,6.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Kingler,1,60,99,water,,130,115,1.3,55,50,50,75,60,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Voltorb,1,190,100,electric,,30,50,0.5,40,55,55,100,10.4,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Electrode,1,60,101,electric,,50,70,1.2,60,80,80,150,66.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Exeggcute,1,90,102,grass,psychic,40,80,0.4,60,60,45,40,2.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Exeggutor,1,45,103,grass,psychic,105,85,,95,125,75,45,,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Cubone,1,190,104,ground,,50,95,0.4,50,40,50,35,6.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Marowak,1,75,105,ground,fire,80,110,,60,50,80,45,,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Hitmonlee,1,45,106,fighting,,120,53,1.5,50,35,110,87,49.8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Hitmonchan,1,45,107,fighting,,105,79,1.4,50,35,110,76,50.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Lickitung,1,45,108,normal,,55,75,1.2,90,60,75,30,65.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Koffing,1,190,109,poison,,65,95,0.6,40,60,45,35,1,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Weezing,1,60,110,poison,,90,120,1.2,65,85,70,60,9.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Rhyhorn,1,120,111,ground,rock,85,95,1,80,30,30,25,115,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Rhydon,1,60,112,ground,rock,130,120,1.9,105,45,45,40,120,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Chansey,1,30,113,normal,,5,5,1.1,250,35,105,50,34.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Tangela,1,45,114,grass,,55,115,1,65,100,40,60,35,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Kangaskhan,1,45,115,normal,,125,100,2.2,105,60,100,100,80,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Horsea,1,225,116,water,,40,70,0.4,30,70,25,60,8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Seadra,1,75,117,water,,65,95,1.2,55,95,45,85,25,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Goldeen,1,225,118,water,,67,60,0.6,45,35,50,63,15,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Seaking,1,60,119,water,,92,65,1.3,80,65,80,68,39,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Staryu,1,225,120,water,,45,55,0.8,30,70,55,85,34.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Starmie,1,60,121,water,psychic,75,85,1.1,60,100,85,115,80,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Mr. Mime,1,45,122,psychic,fairy,45,65,1.3,40,100,120,90,54.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Scyther,1,45,123,bug,flying,110,80,1.5,70,55,80,105,56,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Jynx,1,45,124,ice,psychic,50,35,1.4,65,115,95,95,40.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Electabuzz,1,45,125,electric,,83,57,1.1,65,95,85,105,30,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Magmar,1,45,126,fire,,95,57,1.3,65,100,85,93,44.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Pinsir,1,45,127,bug,,155,120,1.5,65,65,90,105,55,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Tauros,1,45,128,normal,,100,95,1.4,75,40,70,110,88.4,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Magikarp,1,255,129,water,,10,55,0.9,20,15,20,80,10,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Gyarados,1,45,130,water,flying,155,109,6.5,95,70,130,81,235,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Lapras,1,45,131,water,ice,85,80,2.5,130,85,95,60,220,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Ditto,1,35,132,normal,,48,48,0.3,48,48,48,48,4,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Eevee,1,45,133,normal,,55,50,0.3,55,45,65,55,6.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Vaporeon,1,45,134,water,,65,60,1,130,110,95,65,29,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Jolteon,1,45,135,electric,,65,60,0.8,65,110,95,130,24.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Flareon,1,45,136,fire,,130,60,0.9,65,95,110,65,25,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Porygon,1,45,137,normal,,60,70,0.8,65,85,75,40,36.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Omanyte,1,45,138,rock,water,40,100,0.4,35,90,55,35,7.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Omastar,1,45,139,rock,water,60,125,1,70,115,70,55,35,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Kabuto,1,45,140,rock,water,80,90,0.5,30,55,45,55,11.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Kabutops,1,45,141,rock,water,115,105,1.3,60,65,70,80,40.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Aerodactyl,1,45,142,rock,flying,135,85,1.8,80,70,95,150,59,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Snorlax,1,25,143,normal,,110,65,2.1,160,65,110,30,460,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Articuno,1,3,144,ice,flying,85,100,1.7,90,95,125,85,55.4,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Zapdos,1,3,145,electric,flying,90,85,1.6,90,125,90,100,52.6,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Moltres,1,3,146,fire,flying,100,90,2,90,125,85,90,60,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Dratini,1,45,147,dragon,,64,45,1.8,41,50,50,50,3.3,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Dragonair,1,45,148,dragon,,84,65,4,61,70,70,70,16.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Dragonite,1,45,149,dragon,flying,134,95,2.2,91,100,100,80,210,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Mewtwo,1,3,150,psychic,,150,70,2,106,194,120,140,122,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Mew,1,45,151,psychic,,100,100,0.4,100,100,100,100,4,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Chikorita,2,45,152,grass,,49,65,0.9,45,49,65,45,6.4,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Bayleef,2,45,153,grass,,62,80,1.2,60,63,80,60,15.8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Meganium,2,45,154,grass,,82,100,1.8,80,83,100,80,100.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Cyndaquil,2,45,155,fire,,52,43,0.5,39,60,50,65,7.9,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Quilava,2,45,156,fire,,64,58,0.9,58,80,65,80,19,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Typhlosion,2,45,157,fire,,84,78,1.7,78,109,85,100,79.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Totodile,2,45,158,water,,65,64,0.6,50,44,48,43,9.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Croconaw,2,45,159,water,,80,80,1.1,65,59,63,58,25,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Feraligatr,2,45,160,water,,105,100,2.3,85,79,83,78,88.8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Sentret,2,255,161,normal,,46,34,0.8,35,35,45,20,6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Furret,2,90,162,normal,,76,64,1.8,85,45,55,90,32.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Hoothoot,2,255,163,normal,flying,30,30,0.7,60,36,56,50,21.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Noctowl,2,90,164,normal,flying,50,50,1.6,100,86,96,70,40.8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Ledyba,2,255,165,bug,flying,20,30,1,40,40,80,55,10.8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Ledian,2,90,166,bug,flying,35,50,1.4,55,55,110,85,35.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Spinarak,2,255,167,bug,poison,60,40,0.5,40,40,40,30,8.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Ariados,2,90,168,bug,poison,90,70,1.1,70,60,70,40,33.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Crobat,2,90,169,poison,flying,90,80,1.8,85,70,80,130,75,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Chinchou,2,190,170,water,electric,38,38,0.5,75,56,56,67,12,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Lanturn,2,75,171,water,electric,58,58,1.2,125,76,76,67,22.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Pichu,2,190,172,electric,,40,15,0.3,20,35,35,60,2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Cleffa,2,150,173,fairy,,25,28,0.3,50,45,55,15,3,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Igglybuff,2,170,174,normal,fairy,30,15,0.3,90,40,20,15,1,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Togepi,2,190,175,fairy,,20,65,0.3,35,40,65,20,1.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Togetic,2,75,176,fairy,flying,40,85,0.6,55,80,105,40,3.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Natu,2,190,177,psychic,flying,50,45,0.2,40,70,45,70,2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Xatu,2,75,178,psychic,flying,75,70,1.5,65,95,70,95,15,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Mareep,2,235,179,electric,,40,40,0.6,55,65,45,35,7.8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Flaaffy,2,120,180,electric,,55,55,0.8,70,80,60,45,13.3,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Ampharos,2,45,181,electric,,95,105,1.4,90,165,110,45,61.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Bellossom,2,45,182,grass,,80,95,0.4,75,90,100,50,5.8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Marill,2,190,183,water,fairy,20,50,0.4,70,20,50,40,8.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Azumarill,2,75,184,water,fairy,50,80,0.8,100,60,80,50,28.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Sudowoodo,2,65,185,rock,,100,115,1.2,70,30,65,30,38,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Politoed,2,45,186,water,,75,75,1.1,90,90,100,70,33.9,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Hoppip,2,255,187,grass,flying,35,40,0.4,35,35,55,50,0.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Skiploom,2,120,188,grass,flying,45,50,0.6,55,45,65,80,1,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Jumpluff,2,45,189,grass,flying,55,70,0.8,75,55,95,110,3,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Aipom,2,45,190,normal,,70,55,0.8,55,40,55,85,11.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Sunkern,2,235,191,grass,,30,30,0.3,30,30,30,30,1.8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Sunflora,2,120,192,grass,,75,55,0.8,75,105,85,30,8.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Yanma,2,75,193,bug,flying,65,45,1.2,65,75,45,95,38,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Wooper,2,255,194,water,ground,45,45,0.4,55,25,25,15,8.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Quagsire,2,90,195,water,ground,85,85,1.4,95,65,65,35,75,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Espeon,2,45,196,psychic,,65,60,0.9,65,130,95,110,26.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Umbreon,2,45,197,dark,,65,110,1,95,60,130,65,27,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Murkrow,2,30,198,dark,flying,85,42,0.5,60,85,42,91,2.1,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Slowking,2,70,199,water,psychic,75,80,2,95,100,110,30,79.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Misdreavus,2,45,200,ghost,,60,60,0.7,60,85,85,85,1,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Unown,2,225,201,psychic,,72,48,0.5,48,72,48,48,5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Wobbuffet,2,45,202,psychic,,33,58,1.3,190,33,58,33,28.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Girafarig,2,60,203,normal,psychic,80,65,1.5,70,90,65,85,41.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Pineco,2,190,204,bug,,65,90,0.6,50,35,35,15,7.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Forretress,2,75,205,bug,steel,90,140,1.2,75,60,60,40,125.8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Dunsparce,2,190,206,normal,,70,70,1.5,100,65,65,45,14,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Gligar,2,60,207,ground,flying,75,105,1.1,65,35,65,85,64.8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Steelix,2,25,208,steel,ground,125,230,9.2,75,55,95,30,400,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Snubbull,2,190,209,fairy,,80,50,0.6,60,40,40,30,7.8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Granbull,2,75,210,fairy,,120,75,1.4,90,60,60,45,48.7,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Qwilfish,2,45,211,water,poison,95,85,0.5,65,55,55,85,3.9,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Scizor,2,25,212,bug,steel,150,140,1.8,70,65,100,75,118,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Shuckle,2,190,213,bug,rock,10,230,0.6,20,10,230,5,20.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Heracross,2,45,214,bug,fighting,185,115,1.5,80,40,105,75,54,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Sneasel,2,60,215,dark,ice,95,55,0.9,55,35,75,115,28,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Teddiursa,2,120,216,normal,,80,50,0.6,60,50,50,40,8.8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Ursaring,2,60,217,normal,,130,75,1.8,90,75,75,55,125.8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Slugma,2,190,218,fire,,40,40,0.7,40,70,40,20,35,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Magcargo,2,75,219,fire,rock,50,120,0.8,60,90,80,30,55,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Swinub,2,225,220,ice,ground,50,40,0.4,50,30,30,50,6.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Piloswine,2,75,221,ice,ground,100,80,1.1,100,60,60,50,55.8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Corsola,2,60,222,water,rock,55,95,0.6,65,65,95,35,5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Remoraid,2,190,223,water,,65,35,0.6,35,65,35,65,12,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Octillery,2,75,224,water,,105,75,0.9,75,105,75,45,28.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Delibird,2,45,225,ice,flying,55,45,0.9,45,65,45,75,16,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Mantine,2,25,226,water,flying,40,70,2.1,85,80,140,70,220,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Skarmory,2,25,227,steel,flying,80,140,1.7,65,40,70,70,50.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Houndour,2,120,228,dark,fire,60,30,0.6,45,80,50,65,10.8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Houndoom,2,45,229,dark,fire,90,90,1.4,75,140,90,115,35,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Kingdra,2,45,230,water,dragon,95,95,1.8,75,95,95,85,152,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Phanpy,2,120,231,ground,,60,60,0.5,90,40,40,40,33.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Donphan,2,60,232,ground,,120,120,1.1,90,60,60,50,120,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Porygon2,2,45,233,normal,,80,90,0.6,85,105,95,60,32.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Stantler,2,45,234,normal,,95,62,1.4,73,85,65,85,71.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Smeargle,2,45,235,normal,,20,35,1.2,55,20,45,75,58,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Tyrogue,2,75,236,fighting,,35,35,0.7,35,35,35,35,21,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Hitmontop,2,45,237,fighting,,95,95,1.4,50,35,110,70,48,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Smoochum,2,45,238,ice,psychic,30,15,0.4,45,85,65,65,6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Elekid,2,45,239,electric,,63,37,0.6,45,65,55,95,23.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Magby,2,45,240,fire,,75,37,0.7,45,70,55,83,21.4,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Miltank,2,45,241,normal,,80,105,1.2,95,40,70,100,75.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Blissey,2,30,242,normal,,10,10,1.5,255,75,135,55,46.8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Raikou,2,3,243,electric,,85,75,1.9,90,115,100,115,178,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Entei,2,3,244,fire,,115,85,2.1,115,90,75,100,198,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Suicune,2,3,245,water,,75,115,2,100,90,115,85,187,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Larvitar,2,45,246,rock,ground,64,50,0.6,50,45,50,41,72,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Pupitar,2,45,247,rock,ground,84,70,1.2,70,65,70,51,152,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Tyranitar,2,45,248,rock,dark,164,150,2,100,95,120,71,202,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Lugia,2,3,249,psychic,flying,90,130,5.2,106,90,154,110,216,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Ho-Oh,2,3,250,fire,flying,130,90,3.8,106,110,154,90,199,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Celebi,2,45,251,psychic,grass,100,100,0.6,100,100,100,100,5,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Treecko,3,45,252,grass,,45,35,0.5,40,65,55,70,5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Grovyle,3,45,253,grass,,65,45,0.9,50,85,65,95,21.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Sceptile,3,45,254,grass,,110,75,1.7,70,145,85,145,52.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Torchic,3,45,255,fire,,60,40,0.4,45,70,50,45,2.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Combusken,3,45,256,fire,fighting,85,60,0.9,60,85,60,55,19.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Blaziken,3,45,257,fire,fighting,160,80,1.9,80,130,80,100,52,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Mudkip,3,45,258,water,,70,50,0.4,50,50,50,40,7.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Marshtomp,3,45,259,water,ground,85,70,0.7,70,60,70,50,28,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Swampert,3,45,260,water,ground,150,110,1.5,100,95,110,70,81.9,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Poochyena,3,255,261,dark,,55,35,0.5,35,30,30,35,13.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Mightyena,3,127,262,dark,,90,70,1,70,60,60,70,37,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Zigzagoon,3,255,263,normal,,30,41,0.4,38,30,41,60,17.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Linoone,3,90,264,normal,,70,61,0.5,78,50,61,100,32.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Wurmple,3,255,265,bug,,45,35,0.3,45,20,30,20,3.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Silcoon,3,120,266,bug,,35,55,0.6,50,25,25,15,10,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Beautifly,3,45,267,bug,flying,70,50,1,60,100,50,65,28.4,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Cascoon,3,120,268,bug,,35,55,0.7,50,25,25,15,11.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Dustox,3,45,269,bug,poison,50,70,1.2,60,50,90,65,31.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Lotad,3,255,270,water,grass,30,30,0.5,40,40,50,30,2.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Lombre,3,120,271,water,grass,50,50,1.2,60,60,70,50,32.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Ludicolo,3,45,272,water,grass,70,70,1.5,80,90,100,70,55,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Seedot,3,255,273,grass,,40,50,0.5,40,30,30,30,4,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Nuzleaf,3,120,274,grass,dark,70,40,1,70,60,40,60,28,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Shiftry,3,45,275,grass,dark,100,60,1.3,90,90,60,80,59.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Taillow,3,200,276,normal,flying,55,30,0.3,40,30,30,85,2.3,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Swellow,3,45,277,normal,flying,85,60,0.7,60,75,50,125,19.8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Wingull,3,190,278,water,flying,30,30,0.6,40,55,30,85,9.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Pelipper,3,45,279,water,flying,50,100,1.2,60,95,70,65,28,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Ralts,3,235,280,psychic,fairy,25,25,0.4,28,45,35,40,6.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Kirlia,3,120,281,psychic,fairy,35,35,0.8,38,65,55,50,20.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Gardevoir,3,45,282,psychic,fairy,85,65,1.6,68,165,135,100,48.4,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Surskit,3,200,283,bug,water,30,32,0.5,40,50,52,65,1.7,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Masquerain,3,75,284,bug,flying,60,62,0.8,70,100,82,80,3.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Shroomish,3,255,285,grass,,40,60,0.4,60,40,60,35,4.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Breloom,3,90,286,grass,fighting,130,80,1.2,60,60,60,70,39.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Slakoth,3,255,287,normal,,60,60,0.8,60,35,35,30,24,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Vigoroth,3,120,288,normal,,80,80,1.4,80,55,55,90,46.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Slaking,3,45,289,normal,,160,100,2,150,95,65,100,130.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Nincada,3,255,290,bug,ground,45,90,0.5,31,30,30,40,5.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Ninjask,3,120,291,bug,flying,90,45,0.8,61,50,50,160,12,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Shedinja,3,45,292,bug,ghost,90,45,0.8,1,30,30,40,1.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Whismur,3,190,293,normal,,51,23,0.6,64,51,23,28,16.3,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Loudred,3,120,294,normal,,71,43,1,84,71,43,48,40.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Exploud,3,45,295,normal,,91,63,1.5,104,91,73,68,84,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Makuhita,3,180,296,fighting,,60,30,1,72,20,30,25,86.4,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Hariyama,3,200,297,fighting,,120,60,2.3,144,40,60,50,253.8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Azurill,3,150,298,normal,fairy,20,40,0.2,50,20,40,20,2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Nosepass,3,255,299,rock,,45,135,1,30,45,90,30,97,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Skitty,3,255,300,normal,,45,45,0.6,50,35,35,50,11,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Delcatty,3,60,301,normal,,65,65,1.1,70,55,55,90,32.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Sableye,3,45,302,dark,ghost,85,125,0.5,50,85,115,20,11,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Mawile,3,45,303,steel,fairy,105,125,0.6,50,55,95,50,11.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Aron,3,180,304,steel,rock,70,100,0.4,50,40,40,30,60,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Lairon,3,90,305,steel,rock,90,140,0.9,60,50,50,40,120,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Aggron,3,45,306,steel,rock,140,230,2.1,70,60,80,50,360,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Meditite,3,180,307,fighting,psychic,40,55,0.6,30,40,55,60,11.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Medicham,3,90,308,fighting,psychic,100,85,1.3,60,80,85,100,31.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Electrike,3,120,309,electric,,45,40,0.6,40,65,40,65,15.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Manectric,3,45,310,electric,,75,80,1.5,70,135,80,135,40.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Plusle,3,200,311,electric,,50,40,0.4,60,85,75,95,4.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Minun,3,200,312,electric,,40,50,0.4,60,75,85,95,4.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Volbeat,3,150,313,bug,,73,75,0.7,65,47,85,85,17.7,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Illumise,3,150,314,bug,,47,75,0.6,65,73,85,85,17.7,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Roselia,3,150,315,grass,poison,60,45,0.3,50,100,80,65,2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Gulpin,3,225,316,poison,,43,53,0.4,70,43,53,40,10.3,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Swalot,3,75,317,poison,,73,83,1.7,100,73,83,55,80,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Carvanha,3,225,318,water,dark,90,20,0.8,45,65,20,65,20.8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Sharpedo,3,60,319,water,dark,140,70,1.8,70,110,65,105,88.8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Wailmer,3,125,320,water,,70,35,2,130,70,35,60,130,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Wailord,3,60,321,water,,90,45,14.5,170,90,45,60,398,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Numel,3,255,322,fire,ground,60,40,0.7,60,65,45,35,24,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Camerupt,3,150,323,fire,ground,120,100,1.9,70,145,105,20,220,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Torkoal,3,90,324,fire,,85,140,0.5,70,85,70,20,80.4,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Spoink,3,255,325,psychic,,25,35,0.7,60,70,80,60,30.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Grumpig,3,60,326,psychic,,45,65,0.9,80,90,110,80,71.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Spinda,3,255,327,normal,,60,60,1.1,60,60,60,60,5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Trapinch,3,255,328,ground,,100,45,0.7,45,45,45,10,15,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Vibrava,3,120,329,ground,dragon,70,50,1.1,50,50,50,70,15.3,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Flygon,3,45,330,ground,dragon,100,80,2,80,80,80,100,82,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Cacnea,3,190,331,grass,,85,40,0.4,50,85,40,35,51.3,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Cacturne,3,60,332,grass,dark,115,60,1.3,70,115,60,55,77.4,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Swablu,3,255,333,normal,flying,40,60,0.4,45,40,75,50,1.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Altaria,3,45,334,dragon,flying,110,110,1.1,75,110,105,80,20.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Zangoose,3,90,335,normal,,115,60,1.3,73,60,60,90,40.3,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Seviper,3,90,336,poison,,100,60,2.7,73,100,60,65,52.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Lunatone,3,45,337,rock,psychic,55,65,1,90,95,85,70,168,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Solrock,3,45,338,rock,psychic,95,85,1.2,90,55,65,70,154,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Barboach,3,190,339,water,ground,48,43,0.4,50,46,41,60,1.9,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Whiscash,3,75,340,water,ground,78,73,0.9,110,76,71,60,23.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Corphish,3,205,341,water,,80,65,0.6,43,50,35,35,11.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Crawdaunt,3,155,342,water,dark,120,85,1.1,63,90,55,55,32.8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Baltoy,3,255,343,ground,psychic,40,55,0.5,40,40,70,55,21.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Claydol,3,90,344,ground,psychic,70,105,1.5,60,70,120,75,108,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Lileep,3,45,345,rock,grass,41,77,1,66,61,87,23,23.8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Cradily,3,45,346,rock,grass,81,97,1.5,86,81,107,43,60.4,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Anorith,3,45,347,rock,bug,95,50,0.7,45,40,50,75,12.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Armaldo,3,45,348,rock,bug,125,100,1.5,75,70,80,45,68.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Feebas,3,255,349,water,,15,20,0.6,20,10,55,80,7.4,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Milotic,3,60,350,water,,60,79,6.2,95,100,125,81,162,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Castform,3,45,351,normal,,70,70,0.3,70,70,70,70,0.8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Kecleon,3,200,352,normal,,90,70,1,60,60,120,40,22,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Shuppet,3,225,353,ghost,,75,35,0.6,44,63,33,45,2.3,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Banette,3,45,354,ghost,,165,75,1.1,64,93,83,75,12.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Duskull,3,190,355,ghost,,40,90,0.8,20,30,90,25,15,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Dusclops,3,90,356,ghost,,70,130,1.6,40,60,130,25,30.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Tropius,3,200,357,grass,flying,68,83,2,99,72,87,51,100,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Chimecho,3,45,358,psychic,,50,80,0.6,75,95,90,65,1,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Absol,3,30,359,dark,,150,60,1.2,65,115,60,115,47,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Wynaut,3,125,360,psychic,,23,48,0.6,95,23,48,23,14,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Snorunt,3,190,361,ice,,50,50,0.7,50,50,50,50,16.8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Glalie,3,75,362,ice,,120,80,1.5,80,120,80,100,256.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Spheal,3,255,363,ice,water,40,50,0.8,70,55,50,25,39.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Sealeo,3,120,364,ice,water,60,70,1.1,90,75,70,45,87.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Walrein,3,45,365,ice,water,80,90,1.4,110,95,90,65,150.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Clamperl,3,255,366,water,,64,85,0.4,35,74,55,32,52.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Huntail,3,60,367,water,,104,105,1.7,55,94,75,52,27,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Gorebyss,3,60,368,water,,84,105,1.8,55,114,75,52,22.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Relicanth,3,25,369,water,rock,90,130,1,100,45,65,55,23.4,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Luvdisc,3,225,370,water,,30,55,0.6,43,40,65,97,8.7,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Bagon,3,45,371,dragon,,75,60,0.6,45,40,30,50,42.1,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Shelgon,3,45,372,dragon,,95,100,1.1,65,60,50,50,110.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Salamence,3,45,373,dragon,flying,145,130,1.5,95,120,90,120,102.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Beldum,3,3,374,steel,psychic,55,80,0.6,40,35,60,30,95.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Metang,3,3,375,steel,psychic,75,100,1.2,60,55,80,50,202.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Metagross,3,3,376,steel,psychic,145,150,1.6,80,105,110,110,550,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Regirock,3,3,377,rock,,100,200,1.7,80,50,100,50,230,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Regice,3,3,378,ice,,50,100,1.8,80,100,200,50,175,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Registeel,3,3,379,steel,,75,150,1.9,80,75,150,50,205,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Latias,3,3,380,dragon,psychic,100,120,1.4,80,140,150,110,40,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Latios,3,3,381,dragon,psychic,130,100,2,80,160,120,110,60,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Kyogre,3,3,382,water,,150,90,4.5,100,180,160,90,352,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Groudon,3,3,383,ground,,180,160,3.5,100,150,90,90,950,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Rayquaza,3,45,384,dragon,flying,180,100,7,105,180,100,115,206.5,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Jirachi,3,3,385,steel,psychic,100,100,0.3,100,100,100,100,1.1,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Deoxys,3,3,386,psychic,,95,90,1.7,50,95,90,180,60.8,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Turtwig,4,45,387,grass,,68,64,0.4,55,45,55,31,10.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Grotle,4,45,388,grass,,89,85,1.1,75,55,65,36,97,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Torterra,4,45,389,grass,ground,109,105,2.2,95,75,85,56,310,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Chimchar,4,45,390,fire,,58,44,0.5,44,58,44,61,6.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Monferno,4,45,391,fire,fighting,78,52,0.9,64,78,52,81,22,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Infernape,4,45,392,fire,fighting,104,71,1.2,76,104,71,108,55,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Piplup,4,45,393,water,,51,53,0.4,53,61,56,40,5.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Prinplup,4,45,394,water,,66,68,0.8,64,81,76,50,23,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Empoleon,4,45,395,water,steel,86,88,1.7,84,111,101,60,84.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Starly,4,255,396,normal,flying,55,30,0.3,40,30,30,60,2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Staravia,4,120,397,normal,flying,75,50,0.6,55,40,40,80,15.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Staraptor,4,45,398,normal,flying,120,70,1.2,85,50,60,100,24.9,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Bidoof,4,255,399,normal,,45,40,0.5,59,35,40,31,20,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Bibarel,4,127,400,normal,water,85,60,1,79,55,60,71,31.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Kricketot,4,255,401,bug,,25,41,0.3,37,25,41,25,2.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Kricketune,4,45,402,bug,,85,51,1,77,55,51,65,25.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Shinx,4,235,403,electric,,65,34,0.5,45,40,34,45,9.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Luxio,4,120,404,electric,,85,49,0.9,60,60,49,60,30.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Luxray,4,45,405,electric,,120,79,1.4,80,95,79,70,42,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Budew,4,255,406,grass,poison,30,35,0.2,40,50,70,55,1.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Roserade,4,75,407,grass,poison,70,65,0.9,60,125,105,90,14.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Cranidos,4,45,408,rock,,125,40,0.9,67,30,30,58,31.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Rampardos,4,45,409,rock,,165,60,1.6,97,65,50,58,102.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Shieldon,4,45,410,rock,steel,42,118,0.5,30,42,88,30,57,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Bastiodon,4,45,411,rock,steel,52,168,1.3,60,47,138,30,149.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Burmy,4,120,412,bug,,29,45,0.2,40,29,45,36,3.4,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Wormadam,4,45,413,bug,grass,69,95,0.5,60,69,95,36,6.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Mothim,4,45,414,bug,flying,94,50,0.9,70,94,50,66,23.3,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Combee,4,120,415,bug,flying,30,42,0.3,30,30,42,70,5.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Vespiquen,4,45,416,bug,flying,80,102,1.2,70,80,102,40,38.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Pachirisu,4,200,417,electric,,45,70,0.4,60,45,90,95,3.9,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Buizel,4,190,418,water,,65,35,0.7,55,60,30,85,29.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Floatzel,4,75,419,water,,105,55,1.1,85,85,50,115,33.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Cherubi,4,190,420,grass,,35,45,0.4,45,62,53,35,3.3,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Cherrim,4,75,421,grass,,60,70,0.5,70,87,78,85,9.3,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Shellos,4,190,422,water,,48,48,0.3,76,57,62,34,6.3,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Gastrodon,4,75,423,water,ground,83,68,0.9,111,92,82,39,29.9,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Ambipom,4,45,424,normal,,100,66,1.2,75,60,66,115,20.3,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Drifloon,4,125,425,ghost,flying,50,34,0.4,90,60,44,70,1.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Drifblim,4,60,426,ghost,flying,80,44,1.2,150,90,54,80,15,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Buneary,4,190,427,normal,,66,44,0.4,55,44,56,85,5.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Lopunny,4,60,428,normal,,136,94,1.2,65,54,96,135,33.3,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Mismagius,4,45,429,ghost,,60,60,0.9,60,105,105,105,4.4,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Honchkrow,4,30,430,dark,flying,125,52,0.9,100,105,52,71,27.3,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Glameow,4,190,431,normal,,55,42,0.5,49,42,37,85,3.9,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Purugly,4,75,432,normal,,82,64,1,71,64,59,112,43.8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Chingling,4,120,433,psychic,,30,50,0.2,45,65,50,45,0.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Stunky,4,225,434,poison,dark,63,47,0.4,63,41,41,74,19.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Skuntank,4,60,435,poison,dark,93,67,1,103,71,61,84,38,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Bronzor,4,255,436,steel,psychic,24,86,0.5,57,24,86,23,60.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Bronzong,4,90,437,steel,psychic,89,116,1.3,67,79,116,33,187,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Bonsly,4,255,438,rock,,80,95,0.5,50,10,45,10,15,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Mime Jr.,4,145,439,psychic,fairy,25,45,0.6,20,70,90,60,13,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Happiny,4,130,440,normal,,5,5,0.6,100,15,65,30,24.4,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Chatot,4,30,441,normal,flying,65,45,0.5,76,92,42,91,1.9,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Spiritomb,4,100,442,ghost,dark,92,108,1,50,92,108,35,108,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Gible,4,45,443,dragon,ground,70,45,0.7,58,40,45,42,20.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Gabite,4,45,444,dragon,ground,90,65,1.4,68,50,55,82,56,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Garchomp,4,45,445,dragon,ground,170,115,1.9,108,120,95,92,95,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Munchlax,4,50,446,normal,,85,40,0.6,135,40,85,5,105,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Riolu,4,75,447,fighting,,70,40,0.7,40,35,40,60,20.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Lucario,4,45,448,fighting,steel,145,88,1.2,70,140,70,112,54,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Hippopotas,4,140,449,ground,,72,78,0.8,68,38,42,32,49.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Hippowdon,4,60,450,ground,,112,118,2,108,68,72,47,300,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Skorupi,4,120,451,poison,bug,50,90,0.8,40,30,55,65,12,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Drapion,4,45,452,poison,dark,90,110,1.3,70,60,75,95,61.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Croagunk,4,140,453,poison,fighting,61,40,0.7,48,61,40,50,23,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Toxicroak,4,75,454,poison,fighting,106,65,1.3,83,86,65,85,44.4,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Carnivine,4,200,455,grass,,100,72,1.4,74,90,72,46,27,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Finneon,4,190,456,water,,49,56,0.4,49,49,61,66,7,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Lumineon,4,75,457,water,,69,76,1.2,69,69,86,91,24,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Mantyke,4,25,458,water,flying,20,50,1,45,60,120,50,65,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Snover,4,120,459,grass,ice,62,50,1,60,62,60,40,50.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Abomasnow,4,60,460,grass,ice,132,105,2.2,90,132,105,30,135.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Weavile,4,45,461,dark,ice,120,65,1.1,70,45,85,125,34,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Magnezone,4,30,462,electric,steel,70,115,1.2,70,130,90,60,180,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Lickilicky,4,30,463,normal,,85,95,1.7,110,80,95,50,140,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Rhyperior,4,30,464,ground,rock,140,130,2.4,115,55,55,40,282.8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Tangrowth,4,30,465,grass,,100,125,2,100,110,50,50,128.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Electivire,4,30,466,electric,,123,67,1.8,75,95,85,95,138.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Magmortar,4,30,467,fire,,95,67,1.6,75,125,95,83,68,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Togekiss,4,30,468,fairy,flying,50,95,1.5,85,120,115,80,38,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Yanmega,4,30,469,bug,flying,76,86,1.9,86,116,56,95,51.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Leafeon,4,45,470,grass,,110,130,1,65,60,65,95,25.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Glaceon,4,45,471,ice,,60,110,0.8,65,130,95,65,25.9,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Gliscor,4,30,472,ground,flying,95,125,2,75,45,75,95,42.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Mamoswine,4,50,473,ice,ground,130,80,2.5,110,70,60,80,291,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Porygon-Z,4,30,474,normal,,80,70,0.9,85,135,75,90,34,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Gallade,4,45,475,psychic,fighting,165,95,1.6,68,65,115,110,52,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Probopass,4,60,476,rock,steel,55,145,1.4,60,75,150,40,340,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Dusknoir,4,45,477,ghost,,100,135,2.2,45,65,135,45,106.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Froslass,4,75,478,ice,ghost,80,70,1.3,70,80,70,110,26.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Rotom,4,45,479,electric,ghost,65,107,0.3,50,105,107,86,0.3,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Uxie,4,3,480,psychic,,75,130,0.3,75,75,130,95,0.3,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Mesprit,4,3,481,psychic,,105,105,0.3,80,105,105,80,0.3,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Azelf,4,3,482,psychic,,125,70,0.3,75,125,70,115,0.3,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Dialga,4,3,483,steel,dragon,120,120,5.4,100,150,100,90,683,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Palkia,4,3,484,water,dragon,120,100,4.2,90,150,120,100,336,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Heatran,4,3,485,fire,steel,90,106,1.7,91,130,106,77,430,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Regigigas,4,3,486,normal,,160,110,3.7,110,80,110,100,420,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Giratina,4,3,487,ghost,dragon,120,100,4.5,150,120,100,90,750,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Cresselia,4,3,488,psychic,,70,120,1.5,120,75,130,85,85.6,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Phione,4,30,489,water,,80,80,0.4,80,80,80,80,3.1,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Manaphy,4,3,490,water,,100,100,0.3,100,100,100,100,1.4,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Darkrai,4,3,491,dark,,90,90,1.5,70,135,90,125,50.5,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Shaymin,4,45,492,grass,grass,103,75,0.2,100,120,75,127,2.1,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Arceus,4,3,493,normal,,120,120,3.2,120,120,120,120,320,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Victini,5,3,494,psychic,fire,100,100,0.4,100,100,100,100,4,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Snivy,5,45,495,grass,,45,55,0.6,45,45,55,63,8.1,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Servine,5,45,496,grass,,60,75,0.8,60,60,75,83,16,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Serperior,5,45,497,grass,,75,95,3.3,75,75,95,113,63,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Tepig,5,45,498,fire,,63,45,0.5,65,45,45,45,9.9,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Pignite,5,45,499,fire,fighting,93,55,1,90,70,55,55,55.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Emboar,5,45,500,fire,fighting,123,65,1.6,110,100,65,65,150,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Oshawott,5,45,501,water,,55,45,0.5,55,63,45,45,5.9,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Dewott,5,45,502,water,,75,60,0.8,75,83,60,60,24.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Samurott,5,45,503,water,,100,85,1.5,95,108,70,70,94.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Patrat,5,255,504,normal,,55,39,0.5,45,35,39,42,11.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Watchog,5,255,505,normal,,85,69,1.1,60,60,69,77,27,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Lillipup,5,255,506,normal,,60,45,0.4,45,25,45,55,4.1,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Herdier,5,120,507,normal,,80,65,0.9,65,35,65,60,14.7,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Stoutland,5,45,508,normal,,110,90,1.2,85,45,90,80,61,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Purrloin,5,255,509,dark,,50,37,0.4,41,50,37,66,10.1,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Liepard,5,90,510,dark,,88,50,1.1,64,88,50,106,37.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Pansage,5,190,511,grass,,53,48,0.6,50,53,48,64,10.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Simisage,5,75,512,grass,,98,63,1.1,75,98,63,101,30.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Pansear,5,190,513,fire,,53,48,0.6,50,53,48,64,11,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Simisear,5,75,514,fire,,98,63,1,75,98,63,101,28,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Panpour,5,190,515,water,,53,48,0.6,50,53,48,64,13.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Simipour,5,75,516,water,,98,63,1,75,98,63,101,29,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Munna,5,190,517,psychic,,25,45,0.6,76,67,55,24,23.3,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Musharna,5,75,518,psychic,,55,85,1.1,116,107,95,29,60.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Pidove,5,255,519,normal,flying,55,50,0.3,50,36,30,43,2.1,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Tranquill,5,120,520,normal,flying,77,62,0.6,62,50,42,65,15,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Unfezant,5,45,521,normal,flying,115,80,1.2,80,65,55,93,29,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Blitzle,5,190,522,electric,,60,32,0.8,45,50,32,76,29.8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Zebstrika,5,75,523,electric,,100,63,1.6,75,80,63,116,79.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Roggenrola,5,255,524,rock,,75,85,0.4,55,25,25,15,18,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Boldore,5,120,525,rock,,105,105,0.9,70,50,40,20,102,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Gigalith,5,45,526,rock,,135,130,1.7,85,60,80,25,260,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Woobat,5,190,527,psychic,flying,45,43,0.4,65,55,43,72,2.1,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Swoobat,5,45,528,psychic,flying,57,55,0.9,67,77,55,114,10.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Drilbur,5,120,529,ground,,85,40,0.3,60,30,45,68,8.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Excadrill,5,60,530,ground,steel,135,60,0.7,110,50,65,88,40.4,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Audino,5,255,531,normal,,60,126,1.1,103,80,126,50,31,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Timburr,5,180,532,fighting,,80,55,0.6,75,25,35,35,12.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Gurdurr,5,90,533,fighting,,105,85,1.2,85,40,50,40,40,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Conkeldurr,5,45,534,fighting,,140,95,1.4,105,55,65,45,87,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Tympole,5,255,535,water,,50,40,0.5,50,50,40,64,4.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Palpitoad,5,120,536,water,ground,65,55,0.8,75,65,55,69,17,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Seismitoad,5,45,537,water,ground,95,75,1.5,105,85,75,74,62,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Throh,5,45,538,fighting,,100,85,1.3,120,30,85,45,55.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Sawk,5,45,539,fighting,,125,75,1.4,75,30,75,85,51,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Sewaddle,5,255,540,bug,grass,53,70,0.3,45,40,60,42,2.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Swadloon,5,120,541,bug,grass,63,90,0.5,55,50,80,42,7.3,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Leavanny,5,45,542,bug,grass,103,80,1.2,75,70,80,92,20.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Venipede,5,255,543,bug,poison,45,59,0.4,30,30,39,57,5.3,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Whirlipede,5,120,544,bug,poison,55,99,1.2,40,40,79,47,58.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Scolipede,5,45,545,bug,poison,100,89,2.5,60,55,69,112,200.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Cottonee,5,190,546,grass,fairy,27,60,0.3,40,37,50,66,0.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Whimsicott,5,75,547,grass,fairy,67,85,0.7,60,77,75,116,6.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Petilil,5,190,548,grass,,35,50,0.5,45,70,50,30,6.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Lilligant,5,75,549,grass,,60,75,1.1,70,110,75,90,16.3,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Basculin,5,25,550,water,,92,65,1,70,80,55,98,18,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Sandile,5,180,551,ground,dark,72,35,0.7,50,35,35,65,15.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Krokorok,5,90,552,ground,dark,82,45,1,60,45,45,74,33.4,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Krookodile,5,45,553,ground,dark,117,80,1.5,95,65,70,92,96.3,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Darumaka,5,120,554,fire,,90,45,0.6,70,15,45,50,37.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Darmanitan,5,60,555,fire,fire,30,105,1.3,105,140,105,55,92.9,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Maractus,5,255,556,grass,,86,67,1,75,106,67,60,28,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Dwebble,5,190,557,bug,rock,65,85,0.3,50,35,35,55,14.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Crustle,5,75,558,bug,rock,105,125,1.4,70,65,75,45,200,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Scraggy,5,180,559,dark,fighting,75,70,0.6,50,35,70,48,11.8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Scrafty,5,90,560,dark,fighting,90,115,1.1,65,45,115,58,30,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Sigilyph,5,45,561,psychic,flying,58,80,1.4,72,103,80,97,14,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Yamask,5,190,562,ghost,,30,85,0.5,38,55,65,30,1.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Cofagrigus,5,90,563,ghost,,50,145,1.7,58,95,105,30,76.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Tirtouga,5,45,564,water,rock,78,103,0.7,54,53,45,22,16.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Carracosta,5,45,565,water,rock,108,133,1.2,74,83,65,32,81,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Archen,5,45,566,rock,flying,112,45,0.5,55,74,45,70,9.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Archeops,5,45,567,rock,flying,140,65,1.4,75,112,65,110,32,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Trubbish,5,190,568,poison,,50,62,0.6,50,40,62,65,31,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Garbodor,5,60,569,poison,,95,82,1.9,80,60,82,75,107.3,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Zorua,5,75,570,dark,,65,40,0.7,40,80,40,65,12.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Zoroark,5,45,571,dark,,105,60,1.6,60,120,60,105,81.1,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Minccino,5,255,572,normal,,50,40,0.4,55,40,40,75,5.8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Cinccino,5,60,573,normal,,95,60,0.5,75,65,60,115,7.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Gothita,5,200,574,psychic,,30,50,0.4,45,55,65,45,5.8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Gothorita,5,100,575,psychic,,45,70,0.7,60,75,85,55,18,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Gothitelle,5,50,576,psychic,,55,95,1.5,70,95,110,65,44,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Solosis,5,200,577,psychic,,30,40,0.3,45,105,50,20,1,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Duosion,5,100,578,psychic,,40,50,0.6,65,125,60,30,8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Reuniclus,5,50,579,psychic,,65,75,1,110,125,85,30,20.1,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Ducklett,5,190,580,water,flying,44,50,0.5,62,44,50,55,5.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Swanna,5,45,581,water,flying,87,63,1.3,75,87,63,98,24.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Vanillite,5,255,582,ice,,50,50,0.4,36,65,60,44,5.7,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Vanillish,5,120,583,ice,,65,65,1.1,51,80,75,59,41,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Vanilluxe,5,45,584,ice,,95,85,1.3,71,110,95,79,57.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Deerling,5,190,585,normal,grass,60,50,0.6,60,40,50,75,19.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Sawsbuck,5,75,586,normal,grass,100,70,1.9,80,60,70,95,92.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Emolga,5,200,587,electric,flying,75,60,0.4,55,75,60,103,5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Karrablast,5,200,588,bug,,75,45,0.5,50,40,45,60,5.9,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Escavalier,5,75,589,bug,steel,135,105,1,70,60,105,20,33,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Foongus,5,190,590,grass,poison,55,45,0.2,69,55,55,15,1,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Amoonguss,5,75,591,grass,poison,85,70,0.6,114,85,80,30,10.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Frillish,5,190,592,water,ghost,40,50,1.2,55,65,85,40,33,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Jellicent,5,60,593,water,ghost,60,70,2.2,100,85,105,60,135,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Alomomola,5,75,594,water,,75,80,1.2,165,40,45,65,31.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Joltik,5,190,595,bug,electric,47,50,0.1,50,57,50,65,0.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Galvantula,5,75,596,bug,electric,77,60,0.8,70,97,60,108,14.3,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Ferroseed,5,255,597,grass,steel,50,91,0.6,44,24,86,10,18.8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Ferrothorn,5,90,598,grass,steel,94,131,1,74,54,116,20,110,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Klink,5,130,599,steel,,55,70,0.3,40,45,60,30,21,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Klang,5,60,600,steel,,80,95,0.6,60,70,85,50,51,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Klinklang,5,30,601,steel,,100,115,0.6,60,70,85,90,81,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Tynamo,5,190,602,electric,,55,40,0.2,35,45,40,60,0.3,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Eelektrik,5,60,603,electric,,85,70,1.2,65,75,70,40,22,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Eelektross,5,30,604,electric,,115,80,2.1,85,105,80,50,80.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Elgyem,5,255,605,psychic,,55,55,0.5,55,85,55,30,9,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Beheeyem,5,90,606,psychic,,75,75,1,75,125,95,40,34.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Litwick,5,190,607,ghost,fire,30,55,0.3,50,65,55,20,3.1,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Lampent,5,90,608,ghost,fire,40,60,0.6,60,95,60,55,13,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Chandelure,5,45,609,ghost,fire,55,90,1,60,145,90,80,34.3,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Axew,5,75,610,dragon,,87,60,0.6,46,30,40,57,18,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Fraxure,5,60,611,dragon,,117,70,1,66,40,50,67,36,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Haxorus,5,45,612,dragon,,147,90,1.8,76,60,70,97,105.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Cubchoo,5,120,613,ice,,70,40,0.5,55,60,40,40,8.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Beartic,5,60,614,ice,,130,80,2.6,95,70,80,50,260,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Cryogonal,5,25,615,ice,,50,50,1.1,80,95,135,105,148,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Shelmet,5,200,616,bug,,40,85,0.4,50,40,65,25,7.7,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Accelgor,5,75,617,bug,,70,40,0.8,80,100,60,145,25.3,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Stunfisk,5,75,618,ground,electric,66,84,0.7,109,81,99,32,11,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Mienfoo,5,180,619,fighting,,85,50,0.9,45,55,50,65,20,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Mienshao,5,45,620,fighting,,125,60,1.4,65,95,60,105,35.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Druddigon,5,45,621,dragon,,120,90,1.6,77,60,90,48,139,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Golett,5,190,622,ground,ghost,74,50,1,59,35,50,35,92,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Golurk,5,90,623,ground,ghost,124,80,2.8,89,55,80,55,330,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Pawniard,5,120,624,dark,steel,85,70,0.5,45,40,40,60,10.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Bisharp,5,45,625,dark,steel,125,100,1.6,65,60,70,70,70,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Bouffalant,5,45,626,normal,,110,95,1.6,95,40,95,55,94.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Rufflet,5,190,627,normal,flying,83,50,0.5,70,37,50,60,10.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Braviary,5,60,628,normal,flying,123,75,1.5,100,57,75,80,41,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Vullaby,5,190,629,dark,flying,55,75,0.5,70,45,65,60,9,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Mandibuzz,5,60,630,dark,flying,65,105,1.2,110,55,95,80,39.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Heatmor,5,90,631,fire,,97,66,1.4,85,105,66,65,58,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Durant,5,90,632,bug,steel,109,112,0.3,58,48,48,109,33,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Deino,5,45,633,dark,dragon,65,50,0.8,52,45,50,38,17.3,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Zweilous,5,45,634,dark,dragon,85,70,1.4,72,65,70,58,50,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Hydreigon,5,45,635,dark,dragon,105,90,1.8,92,125,90,98,160,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Larvesta,5,45,636,bug,fire,85,55,1.1,55,50,55,60,28.8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Volcarona,5,15,637,bug,fire,60,65,1.6,85,135,105,100,46,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Cobalion,5,3,638,steel,fighting,90,129,2.1,91,90,72,108,250,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Terrakion,5,3,639,rock,fighting,129,90,1.9,91,72,90,108,260,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Virizion,5,3,640,grass,fighting,90,72,2,91,90,129,108,200,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Tornadus,5,3,641,flying,,100,80,1.5,79,110,90,121,63,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Thundurus,5,3,642,electric,flying,105,70,1.5,79,145,80,101,61,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Reshiram,5,3,643,dragon,fire,120,100,3.2,100,150,120,90,330,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Zekrom,5,3,644,dragon,electric,150,120,2.9,100,120,100,90,345,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Landorus,5,3,645,ground,flying,145,90,1.5,89,105,80,91,68,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Kyurem,5,3,646,dragon,ice,120,90,3,125,170,100,95,325,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Keldeo,5,3,647,water,fighting,72,90,1.4,91,129,90,108,48.5,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Meloetta,5,3,648,normal,psychic,128,90,0.6,100,77,77,128,6.5,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Genesect,5,3,649,bug,steel,120,95,1.5,71,120,95,99,82.5,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Chespin,6,45,650,grass,,61,65,0.4,56,48,45,38,9,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Quilladin,6,45,651,grass,,78,95,0.7,61,56,58,57,29,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Chesnaught,6,45,652,grass,fighting,107,122,1.6,88,74,75,64,90,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Fennekin,6,45,653,fire,,45,40,0.4,40,62,60,60,9.4,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Braixen,6,45,654,fire,,59,58,1,59,90,70,73,14.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Delphox,6,45,655,fire,psychic,69,72,1.5,75,114,100,104,39,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Froakie,6,45,656,water,,56,40,0.3,41,62,44,71,7,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Frogadier,6,45,657,water,,63,52,0.6,54,83,56,97,10.9,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Greninja,6,45,658,water,dark,145,67,1.5,72,153,71,132,40,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Bunnelby,6,255,659,normal,,36,38,0.4,38,32,36,57,5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Diggersby,6,127,660,normal,ground,56,77,1,85,50,77,78,42.4,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Fletchling,6,255,661,normal,flying,50,43,0.3,45,40,38,62,1.7,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Fletchinder,6,120,662,fire,flying,73,55,0.7,62,56,52,84,16,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Talonflame,6,45,663,fire,flying,81,71,1.2,78,74,69,126,24.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Scatterbug,6,255,664,bug,,35,40,0.3,38,27,25,35,2.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Spewpa,6,120,665,bug,,22,60,0.3,45,27,30,29,8.4,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Vivillon,6,45,666,bug,flying,52,50,1.2,80,90,50,89,17,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Litleo,6,220,667,fire,normal,50,58,0.6,62,73,54,72,13.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Pyroar,6,65,668,fire,normal,68,72,1.5,86,109,66,106,81.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Flabébé,6,225,669,fairy,,38,39,0.1,44,61,79,42,0.1,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Floette,6,120,670,fairy,,65,67,0.2,74,125,128,92,0.9,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Florges,6,45,671,fairy,,65,68,1.1,78,112,154,75,10,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Skiddo,6,200,672,grass,,65,48,0.9,66,62,57,52,31,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Gogoat,6,45,673,grass,,100,62,1.7,123,97,81,68,91,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Pancham,6,220,674,fighting,,82,62,0.6,67,46,48,43,8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Pangoro,6,65,675,fighting,dark,124,78,2.1,95,69,71,58,136,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Furfrou,6,160,676,normal,,80,60,1.2,75,65,90,102,28,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Espurr,6,190,677,psychic,,48,54,0.3,62,63,60,68,3.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Meowstic,6,75,678,psychic,,48,76,0.6,74,83,81,104,8.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Honedge,6,180,679,steel,ghost,80,100,0.8,45,35,37,28,2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Doublade,6,90,680,steel,ghost,110,150,0.8,59,45,49,35,4.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Aegislash,6,45,681,steel,ghost,150,50,1.7,60,150,50,60,53,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Spritzee,6,200,682,fairy,,52,60,0.2,78,63,65,23,0.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Aromatisse,6,140,683,fairy,,72,72,0.8,101,99,89,29,15.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Swirlix,6,200,684,fairy,,48,66,0.4,62,59,57,49,3.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Slurpuff,6,140,685,fairy,,80,86,0.8,82,85,75,72,5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Inkay,6,190,686,dark,psychic,54,53,0.4,53,37,46,45,3.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Malamar,6,80,687,dark,psychic,92,88,1.5,86,68,75,73,47,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Binacle,6,120,688,rock,water,52,67,0.5,42,39,56,50,31,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Barbaracle,6,45,689,rock,water,105,115,1.3,72,54,86,68,96,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Skrelp,6,225,690,poison,water,60,60,0.5,50,60,60,30,7.3,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Dragalge,6,55,691,poison,dragon,75,90,1.8,65,97,123,44,81.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Clauncher,6,225,692,water,,53,62,0.5,50,58,63,44,8.3,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Clawitzer,6,55,693,water,,73,88,1.3,71,120,89,59,35.3,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Helioptile,6,190,694,electric,normal,38,33,0.5,44,61,43,70,6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Heliolisk,6,75,695,electric,normal,55,52,1,62,109,94,109,21,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Tyrunt,6,45,696,rock,dragon,89,77,0.8,58,45,45,48,26,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Tyrantrum,6,45,697,rock,dragon,121,119,2.5,82,69,59,71,270,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Amaura,6,45,698,rock,ice,59,50,1.3,77,67,63,46,25.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Aurorus,6,45,699,rock,ice,77,72,2.7,123,99,92,58,225,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Sylveon,6,45,700,fairy,,65,65,1,95,110,130,60,23.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Hawlucha,6,100,701,fighting,flying,92,75,0.8,78,74,63,118,21.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Dedenne,6,180,702,electric,fairy,58,57,0.2,67,81,67,101,2.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Carbink,6,60,703,rock,fairy,50,150,0.3,50,50,150,50,5.7,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Goomy,6,45,704,dragon,,50,35,0.3,45,55,75,40,2.8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Sliggoo,6,45,705,dragon,,75,53,0.8,68,83,113,60,17.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Goodra,6,45,706,dragon,,100,70,2,90,110,150,80,150.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Klefki,6,75,707,steel,fairy,80,91,0.2,57,80,87,75,3,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Phantump,6,120,708,ghost,grass,70,48,0.4,43,50,60,38,7,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Trevenant,6,60,709,ghost,grass,110,76,1.5,85,65,82,56,71,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Pumpkaboo,6,120,710,ghost,grass,66,70,0.8,59,44,55,41,15,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Gourgeist,6,60,711,ghost,grass,100,122,1.7,85,58,75,54,39,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Bergmite,6,190,712,ice,,69,85,1,55,32,35,28,99.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Avalugg,6,55,713,ice,,117,184,2,95,44,46,28,505,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Noibat,6,190,714,flying,dragon,30,35,0.5,40,45,40,55,8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Noivern,6,45,715,flying,dragon,70,80,1.5,85,97,80,123,85,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Xerneas,6,45,716,fairy,,131,95,3,126,131,98,99,215,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Yveltal,6,45,717,dark,flying,131,95,5.8,126,131,98,99,203,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Zygarde,6,3,718,dragon,ground,100,121,5,216,91,95,85,284.6,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Diancie,6,3,719,rock,fairy,160,110,0.7,50,160,110,110,8.8,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Hoopa,6,3,720,psychic,ghost,160,60,,80,170,130,80,,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Volcanion,6,3,721,fire,water,110,120,1.7,80,130,90,70,195,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Rowlet,7,45,722,grass,flying,55,55,0.3,68,50,50,42,1.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Dartrix,7,45,723,grass,flying,75,75,0.7,78,70,70,52,16,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Decidueye,7,45,724,grass,ghost,107,75,1.6,78,100,100,70,36.6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Litten,7,45,725,fire,,65,40,0.4,45,60,40,70,4.3,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Torracat,7,45,726,fire,,85,50,0.7,65,80,50,90,25,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Incineroar,7,45,727,fire,dark,115,90,1.8,95,80,90,60,83,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Popplio,7,45,728,water,,54,54,0.4,50,66,56,40,7.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Brionne,7,45,729,water,,69,69,0.6,60,91,81,50,17.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Primarina,7,45,730,water,fairy,74,74,1.8,80,126,116,60,44,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Pikipek,7,255,731,normal,flying,75,30,0.3,35,30,30,65,1.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Trumbeak,7,120,732,normal,flying,85,50,0.6,55,40,50,75,14.8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Toucannon,7,45,733,normal,flying,120,75,1.1,80,75,75,60,26,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Yungoos,7,255,734,normal,,70,30,0.4,48,30,30,45,6,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Gumshoos,7,127,735,normal,,110,60,0.7,88,55,60,45,14.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Grubbin,7,255,736,bug,,62,45,0.4,47,55,45,46,4.4,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Charjabug,7,120,737,bug,electric,82,95,0.5,57,55,75,36,10.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Vikavolt,7,45,738,bug,electric,70,90,1.5,77,145,75,43,45,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Crabrawler,7,225,739,fighting,,82,57,0.6,47,42,47,63,7,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Crabominable,7,60,740,fighting,ice,132,77,1.7,97,62,67,43,180,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Oricorio,7,45,741,fire,flying,70,70,0.6,75,98,70,93,3.4,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Cutiefly,7,190,742,bug,fairy,45,40,0.1,40,55,40,84,0.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Ribombee,7,75,743,bug,fairy,55,60,0.2,60,95,70,124,0.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Rockruff,7,190,744,rock,,65,40,0.5,45,30,40,60,9.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Lycanroc,7,90,745,rock,,115,75,,85,55,75,82,,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Wishiwashi,7,60,746,water,,140,130,0.2,45,140,135,30,0.3,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Mareanie,7,190,747,poison,water,53,62,0.4,50,43,52,45,8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Toxapex,7,75,748,poison,water,63,152,0.7,50,53,142,35,14.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Mudbray,7,190,749,ground,,100,70,1,70,45,55,45,110,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Mudsdale,7,60,750,ground,,125,100,2.5,100,55,85,35,920,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Dewpider,7,200,751,water,bug,40,52,0.3,38,40,72,27,4,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Araquanid,7,100,752,water,bug,70,92,1.8,68,50,132,42,82,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Fomantis,7,190,753,grass,,55,35,0.3,40,50,35,35,1.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Lurantis,7,75,754,grass,,105,90,0.9,70,80,90,45,18.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Morelull,7,190,755,grass,fairy,35,55,0.2,40,65,75,15,1.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Shiinotic,7,75,756,grass,fairy,45,80,1,60,90,100,30,11.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Salandit,7,120,757,poison,fire,44,40,0.6,48,71,40,77,4.8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Salazzle,7,45,758,poison,fire,64,60,1.2,68,111,60,117,22.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Stufful,7,140,759,normal,fighting,75,50,0.5,70,45,50,50,6.8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Bewear,7,70,760,normal,fighting,125,80,2.1,120,55,60,60,135,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Bounsweet,7,235,761,grass,,30,38,0.3,42,30,38,32,3.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Steenee,7,120,762,grass,,40,48,0.7,52,40,48,62,8.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Tsareena,7,45,763,grass,,120,98,1.2,72,50,98,72,21.4,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Comfey,7,60,764,fairy,,52,90,0.1,51,82,110,100,0.3,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Oranguru,7,45,765,normal,psychic,60,80,1.5,90,90,110,60,76,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Passimian,7,45,766,fighting,,120,90,2,100,40,60,80,82.8,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Wimpod,7,90,767,bug,water,35,40,0.5,25,20,30,80,12,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Golisopod,7,45,768,bug,water,125,140,2,75,60,90,40,108,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Sandygast,7,140,769,ghost,ground,55,80,0.5,55,70,45,15,70,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Palossand,7,60,770,ghost,ground,75,110,1.3,85,100,75,35,250,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Pyukumuku,7,60,771,water,,60,130,0.3,55,30,130,5,1.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Type: Null,7,3,772,normal,,95,95,1.9,95,95,95,59,120.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Silvally,7,3,773,normal,,95,95,2.3,95,95,95,95,100.5,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Minior,7,30 (Meteorite)255 (Core),774,rock,flying,100,60,0.3,60,100,60,120,40,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Komala,7,45,775,normal,,115,65,0.4,65,75,95,65,19.9,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Turtonator,7,70,776,fire,dragon,78,135,2,60,91,85,36,212,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Togedemaru,7,180,777,electric,steel,98,63,0.3,65,40,73,96,3.3,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Mimikyu,7,45,778,ghost,fairy,90,80,0.2,55,50,105,96,0.7,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Bruxish,7,80,779,water,psychic,105,70,0.9,68,70,70,92,19,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Drampa,7,70,780,normal,dragon,60,85,3,78,135,91,36,185,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Dhelmise,7,25,781,ghost,grass,131,100,3.9,70,86,90,40,210,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Jangmo-o,7,45,782,dragon,,55,65,0.6,45,45,45,45,29.7,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Hakamo-o,7,45,783,dragon,fighting,75,90,1.2,55,65,70,65,47,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Kommo-o,7,45,784,dragon,fighting,110,125,1.6,75,100,105,85,78.2,0"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Tapu Koko,7,3,785,electric,fairy,115,85,1.8,70,95,75,130,20.5,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Tapu Lele,7,3,786,psychic,fairy,85,75,1.2,70,130,115,95,18.6,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Tapu Bulu,7,3,787,grass,fairy,130,115,1.9,70,85,95,75,45.5,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Tapu Fini,7,3,788,water,fairy,75,115,1.3,70,95,130,85,21.2,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Cosmog,7,45,789,psychic,,29,31,0.2,43,29,31,37,0.1,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Cosmoem,7,45,790,psychic,,29,131,0.1,43,29,131,37,999.9,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Solgaleo,7,45,791,psychic,steel,137,107,3.4,137,113,89,97,230,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Lunala,7,45,792,psychic,ghost,113,89,4,137,137,107,97,120,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Nihilego,7,45,793,rock,poison,53,47,1.2,109,127,131,103,55.5,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Buzzwole,7,25,794,bug,fighting,139,139,2.4,107,53,53,79,333.6,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Pheromosa,7,255,795,bug,fighting,137,37,1.8,71,137,37,151,25,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Xurkitree,7,30,796,electric,,89,71,3.8,83,173,71,83,100,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Celesteela,7,25,797,steel,flying,101,103,9.2,97,107,101,61,999.9,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Kartana,7,255,798,grass,steel,181,131,0.3,59,59,31,109,0.1,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Guzzlord,7,15,799,dark,dragon,101,53,5.5,223,97,53,43,888,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Necrozma,7,3,800,psychic,,107,101,2.4,97,127,89,79,230,1"
+  },
+  {
+    "name,generation,capture_rate,pokedex_number,type1,type2,attack,defense,height_m,hp,sp_attack,sp_defense,speed,weight_kg,is_legendary": "Magearna,7,3,801,steel,fairy,95,115,1,80,130,115,65,80.5,1"
+  }
+]
