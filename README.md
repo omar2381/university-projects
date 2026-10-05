@@ -49,3 +49,22 @@ Left as they are, and noted here rather than quietly fixed:
 
 `pokemon-data-finder` loads its dataset from a separate repository,
 [pokemon.csv](https://github.com/omar2381/pokemon.csv), over raw.githubusercontent.com.
+
+## External code referenced
+
+Four repositories I forked during the degree rather than wrote. None of them
+contains any of my own commits, so they are recorded here instead of being kept
+as copies. The commit listed is the one my fork pointed at, so the state I
+actually worked against can be recovered with
+`git clone <url> && git checkout <commit>`.
+
+| Used for | Original | Commit | Licence |
+|---|---|---|---|
+| The brief that [fhir-patient-pipeline](fhir-patient-pipeline) answers | [emisgroup/exa-data-eng-assessment](https://github.com/emisgroup/exa-data-eng-assessment) | `1b78bd6` | none stated |
+| Postcode and geolocation lookups behind [wikidata-mp-birthplaces](wikidata-mp-birthplaces) | [ideal-postcodes/postcodes.io](https://github.com/ideal-postcodes/postcodes.io) | `e0edafd` | MIT |
+| Reinforcement learning module: a TD3 reference implementation | [nikhilbarhate99/TD3-PyTorch-BipedalWalker-v2](https://github.com/nikhilbarhate99/TD3-PyTorch-BipedalWalker-v2) | `1657d70` | MIT |
+| Durham University Computing Society Python examples | [ducompsoc/examples.py](https://github.com/ducompsoc/examples.py) | `d7c6112` | none stated |
+
+The EMIS repository is archived upstream, so it is read-only but still
+reachable. My work for the reinforcement learning module was never pushed
+anywhere and is not in this repository.
