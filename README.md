@@ -66,5 +66,6 @@ actually worked against can be recovered with
 | Durham University Computing Society Python examples | [ducompsoc/examples.py](https://github.com/ducompsoc/examples.py) | `d7c6112` | none stated |
 
 The EMIS repository is archived upstream, so it is read-only but still
-reachable. My work for the reinforcement learning module was never pushed
-anywhere and is not in this repository.
+reachable. My own work for the reinforcement learning module was written in a
+Google Colab notebook rather than committed to the fork, so it is not in this
+repository yet.
