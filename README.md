@@ -5,8 +5,9 @@ Each folder is a self-contained project with its own README explaining what it
 does and how to run it.
 
 They were fourteen separate repositories until October 2026; they are collected
-here so the work can be read in one place. Nothing has been rewritten to look
-better than it was — this is first- and second-year code, and it reads like it.
+here so the work can be read in one place. The logic is untouched — this is
+first- and second-year code and it reads like it — but an earlier tidy-up pass
+did rename some files and one function, and added the README in each folder.
 
 ## Data and machine learning
 
