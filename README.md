@@ -18,6 +18,16 @@ better than it was — this is first- and second-year code, and it reads like it
 | [web-scraping-word2vec](web-scraping-word2vec) | Scrapes BBC News for cyber security terms and measures their similarity | Python, BeautifulSoup, Word2Vec |
 | [wikidata-mp-birthplaces](wikidata-mp-birthplaces) | Maps where UK MPs were born, from Wikidata SPARQL queries and reverse geocoding | Python, SPARQL |
 
+## Machine learning from Colab
+
+Coursework written in Google Colab rather than committed at the time, so these
+arrived later than the rest. Cell outputs were stripped before committing.
+
+| Project | What it does | Built with |
+|---|---|---|
+| [td3-bipedal-walker](td3-bipedal-walker) | A TD3 agent learning to walk in BipedalWalker, with a decaying exploration-noise schedule | Python, PyTorch, OpenAI Gym |
+| [fastgan-image-generation](fastgan-image-generation) | A lightweight GAN generating CIFAR-10 and STL-10 images, with LPIPS perceptual loss and DiffAugment | Python, PyTorch |
+
 ## Algorithms
 
 | Project | What it does | Built with |
@@ -46,6 +56,11 @@ Left as they are, and noted here rather than quietly fixed:
 - **pokemon-data-finder**: `index.js` calls port 8090 while `server.js` listens on 8080.
 - **dna-sequence-alignment**: `ObjectiveThree.py` is unfinished and does not run to completion.
 - **ml-fairness-adult-income**: needs pandas 1.x; it uses APIs removed in 2.x.
+- **td3-bipedal-walker**: pinned to `gym[box2d]==0.20.0` and `pyglet==1.5.27`;
+  it will not run on current Gym without changes. `max_episodes` is 10, which
+  trains nothing — raise it.
+- **fastgan-image-generation**: reads from my own Google Drive paths, and needs
+  the LPIPS pretrained weights, which are not in this repository.
 
 `pokemon-data-finder` loads its dataset from a separate repository,
 [pokemon.csv](https://github.com/omar2381/pokemon.csv), over raw.githubusercontent.com.
@@ -66,6 +81,6 @@ actually worked against can be recovered with
 | Durham University Computing Society Python examples | [ducompsoc/examples.py](https://github.com/ducompsoc/examples.py) | `d7c6112` | none stated |
 
 The EMIS repository is archived upstream, so it is read-only but still
-reachable. My own work for the reinforcement learning module was written in a
-Google Colab notebook rather than committed to the fork, so it is not in this
-repository yet.
+reachable. My own work for the reinforcement learning module is now in
+[td3-bipedal-walker](td3-bipedal-walker); it was written in Colab, which is why
+it was not in the fork.
